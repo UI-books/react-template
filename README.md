@@ -10,6 +10,8 @@
 
 ### React Template
 
+![Hacktoberfest](/assets/docs_img/react.gif)
+
 ## React Free Templates. Download the best React Free templates developed by UI Books.
 
 ![Hacktoberfest](/assets/docs_img/hacktoberfest.png)
