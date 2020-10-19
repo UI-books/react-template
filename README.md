@@ -59,67 +59,33 @@ code .
 
 6. Rename the image as `your_name.jpg` [no space] and copy the to `assets/images/` directory.
 
-7. Go to `_hackbars` and create a new file `your_name.md`
+7. Go to `template` and add your react app.
 
-8. In the `your_name.md` file type as the following lines.
-```markdown
----
-layout: hackbar
-title: <ANY_TITLE>
-author: <YOUR_NAME>
----
-
-<!-- Your MESSAGE on open source-->
-
----
-
-## <!-- Your MESSAGE on climate change -->
-
-![image_caption]({{site.baseurl}}/assets/images/<IMAGE_NAME>.jpg)
-```
-Change `image_name` with your actual image file name.<br>
-For example -
-```markdown
----
-layout: hackbar
-title: Open Source
-author: Shahil Akter
----
-
-In open source, we feel strongly that to really do something well, you have to get a lot of people involved.
-
----
-
-## We are losing the chance ⏱
-
-![Ending Earth]({{site.baseurl}}/assets/images/shahil_akter.jpg)
-```
-
-9. Add the changed files
+8. Add the changed files
 ```bash
 git add .
 ```
 
-10. `Commit` the changes you have made
+9. `Commit` the changes you have made
 ```bash
 git commit -m "YOUR_MESSAGE"
 ```
 
-11. `Push` the codes to your repository
+10. `Push` the codes to your repository
 ```bash
 git push
 ```
 
-12. Create a pull request
+11. Create a pull request
 ![PR](/assets/docs_img/PR.jpg)
 
-13. Next...
+12. Next...
 ![PR](/assets/docs_img/PR_1.jpg)
 
-14. Next...
+13. Next...
 ![PR](/assets/docs_img/PR_2.jpg)
 
-15. 🎉🎉🎉 Congratulations. Your PR is live.
+14. 🎉🎉🎉 Congratulations. Your PR is live.
 
 
 ## PLEASE DON'T FORGET TO CONTRIBUTE AND CREATE NEW ISSUES
