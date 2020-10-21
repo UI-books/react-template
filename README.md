@@ -1,6 +1,4 @@
-# <img alt="hf-icon" src="assets/docs_img/Icon.svg" height="32px" /> Hacktoberfest 2020 👩‍💻 + 🌍
-
-Let's change the world together with `Open-Source` & make an awareness on `climate change`
+# <img alt="hf-icon" src="assets/docs_img/Icon.svg" height="32px" /> Hacktoberfest 2020 👩‍💻 
 
 <p align="center">
   <a><img alt="GitHub labels" src="https://img.shields.io/github/labels/ui-books/react-template/climate-change?style=flat-square"></a>
@@ -10,7 +8,11 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
   <a><img alt="Codacy grade" src="https://img.shields.io/codacy/grade/48f326d1575c4c1faf0531ccfdebc6b1?logo=codacy&style=flat-square"></a>
 </p>
 
-## Time is short but together we still have a chance to recover our planet 🌍
+### React Template
+
+![Hacktoberfest](/assets/docs_img/react.gif)
+
+## React Free Templates. Download the best React Free templates developed by UI Books.
 
 ![Hacktoberfest](/assets/docs_img/hacktoberfest.png)
 
@@ -22,17 +24,12 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
 
 # [Hackbars](https://tasnimzotder.github.io/hacktoberfest-2020/hackbars) 🍫
 
-All of our user-submitted `hackbars` are available in the `/_hackbars` directory.
+All of our user-submitted `react template` are available in the `/template` directory.
 
-🎁 A `hackbar` contains -
-
-1. A message on `open-source`.
-1. A message on `climate change`.
-1. A image of `climate change awareness` or a selfie with `plantation`.
 
 # 〉 How to contribute
 
-## To contribute a hackbar 🍫 - 
+## To contribute a react template 🍫 - 
 
 1. `Fork` the repository.
 ![Fork](/assets/docs_img/fork.jpg)
@@ -47,7 +44,7 @@ git clone https://github.com/{your-username}/hacktoberfest-2020.git
 
 3. Go to the directory
 ```bash
-cd hacktoberfest-2020
+cd react-template
 ```
 
 4. Open the directory in `VS Code` (or any other code editor)
@@ -55,37 +52,33 @@ cd hacktoberfest-2020
 code .
 ```
 
-5. Download a `copyright free` image on `climate change` or take a selfie with your `plantation`. The image size should < `150 KB`.
+5. Go to `template` and add your react app.
 
-6. Rename the image as `your_name.jpg` [no space] and copy the to `assets/images/` directory.
-
-7. Go to `template` and add your react app.
-
-8. Add the changed files
+6. Add the changed files
 ```bash
 git add .
 ```
 
-9. `Commit` the changes you have made
+7. `Commit` the changes you have made
 ```bash
 git commit -m "YOUR_MESSAGE"
 ```
 
-10. `Push` the codes to your repository
+8. `Push` the codes to your repository
 ```bash
 git push
 ```
 
-11. Create a pull request
+9. Create a pull request
 ![PR](/assets/docs_img/PR.jpg)
 
-12. Next...
+10. Next...
 ![PR](/assets/docs_img/PR_1.jpg)
 
-13. Next...
+11. Next...
 ![PR](/assets/docs_img/PR_2.jpg)
 
-14. 🎉🎉🎉 Congratulations. Your PR is live.
+12. 🎉🎉🎉 Congratulations. Your PR is live.
 
 
 ## PLEASE DON'T FORGET TO CONTRIBUTE AND CREATE NEW ISSUES
